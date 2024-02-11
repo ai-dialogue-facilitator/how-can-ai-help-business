@@ -48,7 +48,7 @@
 * Risk assessment by examining market trends and news data.
 * Forecasting models for sales projections and inventory optimization. 
 
-<br>
+<br><br><br>
 
 <b>Dialogue Facilitator summary and comments:</b> All AI models suggest the following main ways to utilize their capabilities:
 - <b>Customer Support / Service</b> based on sentiment analysis of customer feedback/interactions and personalization. This may involve technical implementations of chat-bots, voice recognition and generation utilities, automated incoming and outgoing email analysis etc.;
