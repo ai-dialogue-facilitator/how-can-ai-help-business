@@ -50,5 +50,7 @@
 
 <br>
 
-<b>Dialogue Facilitator summary and comments:<b> All AI models suggest the following main ways to utilize their capabilities:
-- <b>Customer Support / Service</b> based on sentiment analysis of customer feedback and personalization;
+<b>Dialogue Facilitator summary and comments:</b> All AI models suggest the following main ways to utilize their capabilities:
+- <b>Customer Support / Service</b> based on sentiment analysis of customer feedback/interactions and personalization. This may involve technical implementations of chat-bots, voice recognition and generation utilities, automated incoming and outgoing email analysis etc.;
+- <b>Internal Operations / Efficient communication</b> based on optimization and prioritization of internal emails, summarization of documents and AI-aided generation of meaningful reports;
+- <b>Forecasting, Financial Optimization and Planning</b> 
