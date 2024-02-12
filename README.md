@@ -49,7 +49,7 @@
 
 <br><br><br>
 
-# Dialogue Facilitator summary and comments
+# Dialogue Facilitator's summary and comments
 All AI models suggest the following main ways to utilize their capabilities:
 1. <b>Customer Support / Service and Personalization</b> based on sentiment analysis of customer feedback/interactions. This may involve technical implementations of chat-bots, voice recognition and generation utilities, automated incoming and outgoing email analysis etc.;
 2. <b>Internal Operations / Efficient communication</b> based on optimization and prioritization of internal emails, summarization of documents and AI-aided generation of meaningful reports;
