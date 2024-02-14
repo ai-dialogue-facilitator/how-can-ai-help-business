@@ -62,13 +62,13 @@
 			<br><i>Customer Support -</i> Automate responses to customer inquiries, improving response time and efficiency.
 			<br><i>Content Creation -</i> Generate marketing materials, product descriptions, and social media posts, saving time and resources.
 			<br><i>Market Research -</i> Analyze large volumes of text data to identify trends, sentiment analysis, and consumer preferences.
-			<br>**Personalization:** Tailor recommendations and offers to individual customers based on their interactions and preferences.
-			<br>**Decision Support:** Provide insights and recommendations to management for strategic decision-making based on analysis of textual data.
-			<br>**Financial Optimization:** Analyze financial reports, predict market trends, and optimize investment strategies.
-			<br>**Risk Management:** Identify and assess potential risks by analyzing textual data from various sources such as news articles and social media.
-			<br>**Efficient Communication:** Facilitate communication within the organization by summarizing lengthy documents, translating languages, and generating reports.
-			<br>**Compliance and Regulations:** Ensure compliance with regulatory requirements by analyzing and interpreting legal documents and updates.
-			<br>**Training and Development:** Support employee training by providing personalized learning materials and resources.
+			<br><i>Personalization -</i> Tailor recommendations and offers to individual customers based on their interactions and preferences.
+			<br><i>Decision Support -</i> Provide insights and recommendations to management for strategic decision-making based on analysis of textual data.
+			<br><i>Financial Optimization -</i> Analyze financial reports, predict market trends, and optimize investment strategies.
+			<br><i>Risk Management -</i> Identify and assess potential risks by analyzing textual data from various sources such as news articles and social media.
+			<br><i>Efficient Communication -</i> Facilitate communication within the organization by summarizing lengthy documents, translating languages, and generating reports.
+			<br><i>Compliance and Regulations -</i> Ensure compliance with regulatory requirements by analyzing and interpreting legal documents and updates.
+			<br><i>Training and Development -</i> Support employee training by providing personalized learning materials and resources.
       </td>
    		<td style="background-color: lightgrey; width: 25%"> </td>
 		<td style="background-color: lightgrey; width: 25%"> </td>
