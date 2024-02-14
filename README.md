@@ -22,6 +22,7 @@
 			<br><b><i>Efficient Communication -</i></b> Facilitate communication within the organization by summarizing lengthy documents, translating languages, and generating reports.
 			<br><b><i>Compliance and Regulations -</i></b> Ensure compliance with regulatory requirements by analyzing and interpreting legal documents and updates.
 			<br><b><i>Training and Development -</i></b> Support employee training by providing personalized learning materials and resources.
+			<br>[Further discussion with ChatGPT](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/chatgpt)
       </td>
    		<td style="background-color: lightgrey; width: 25%"> </td>
 		<td style="background-color: lightgrey; width: 25%"> </td>
