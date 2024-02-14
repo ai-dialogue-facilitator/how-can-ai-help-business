@@ -2,38 +2,6 @@
 [jump to conclusions](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/README.md#dialogue-facilitators-summary-and-comments)<br><br>
 <b>Alex:</b> Tell me how in particular Language Models can help a business to succeed. What can they do for a business, for its management, for its financial optimization, planning etc. etc.?<br>
 <br>
-> <b>Gemini:</b> Here's a breakdown of how language models (LMs) can bolster business success:
-
-**Customer Service**
-
-* 24/7 chatbot availability for immediate inquiry resolution.
-* Handling basic requests, freeing up human agents for complex issues.
-* Personalization of interactions based on customer history.
-
-**Market Research & Analysis**
-
-* Sentiment analysis of social media, reviews, and surveys to gauge customer opinions.
-* Trend identification in large datasets for predicting market shifts. 
-* Competitive analysis by examining competitor language and strategies.
-
-**Content Creation**
-
-* Drafting product descriptions, social posts, and marketing materials.
-* Generating summaries of long reports or articles.
-* Translation services for multilingual content or global audiences.
-
-**Internal Operations**
-
-* Email summarization and prioritization.
-* Document classification and organization.
-* Meeting transcription and follow-up action item extraction.
-
-**Financial Optimization & Planning**
-
-* Analysis of financial reports and identification of cost-saving areas.
-* Risk assessment by examining market trends and news data.
-* Forecasting models for sales projections and inventory optimization. 
-
 <br></br>
 <table width="100%">
 	<tr>
@@ -67,25 +35,25 @@
   		<td colspan="1" width="25%"></td>
    		<td  colspan="2" style="width: 50%;"><b>Gemini:</b> Here's a breakdown of how language models (LMs) can bolster business success:
 			<br><b><i>Customer Service</i></b>
-				* 24/7 chatbot availability for immediate inquiry resolution.
-				* Handling basic requests, freeing up human agents for complex issues.
-				* Personalization of interactions based on customer history.
+				<br>* 24/7 chatbot availability for immediate inquiry resolution.
+				<br>* Handling basic requests, freeing up human agents for complex issues.
+				<br>* Personalization of interactions based on customer history.
 			<br><b><i>Market Research & Analysis</i></b>
-				* Sentiment analysis of social media, reviews, and surveys to gauge customer opinions.
-				* Trend identification in large datasets for predicting market shifts. 
-				* Competitive analysis by examining competitor language and strategies.
+				<br>* Sentiment analysis of social media, reviews, and surveys to gauge customer opinions.
+				<br>* Trend identification in large datasets for predicting market shifts. 
+				<br>* Competitive analysis by examining competitor language and strategies.
 			<br><b><i>Content Creation</i></b>
-				* Drafting product descriptions, social posts, and marketing materials.
-				* Generating summaries of long reports or articles.
-				* Translation services for multilingual content or global audiences.
+				<br>* Drafting product descriptions, social posts, and marketing materials.
+				<br>* Generating summaries of long reports or articles.
+				<br>* Translation services for multilingual content or global audiences.
 			<br><b><i>Internal Operations</i></b>
-				* Email summarization and prioritization.
-				* Document classification and organization.
-				* Meeting transcription and follow-up action item extraction.
+				<br>* Email summarization and prioritization.
+				<br>* Document classification and organization.
+				<br>* Meeting transcription and follow-up action item extraction.
 			<br><b><i>Financial Optimization & Planning</i></b>
-				* Analysis of financial reports and identification of cost-saving areas.
-				* Risk assessment by examining market trends and news data.
-				* Forecasting models for sales projections and inventory optimization. </td>
+				<br>* Analysis of financial reports and identification of cost-saving areas.
+				<br>* Risk assessment by examining market trends and news data.
+				<br>* Forecasting models for sales projections and inventory optimization. </td>
 		<td width="25%"></td>
  	</tr>
 	<tr>
