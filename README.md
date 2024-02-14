@@ -59,7 +59,7 @@
 	</tr>
  	<tr>
   		<td colspan="2" style="border: 1px solid blue; width: 50%;"><b>ChatGPT: </b> Language models can assist businesses in various ways:
-			<br><b>Customer Support:</b> Automate responses to customer inquiries, improving response time and efficiency.
+			<br><b>Customer Support -</b> Automate responses to customer inquiries, improving response time and efficiency.
 			<br>*Content Creation:* Generate marketing materials, product descriptions, and social media posts, saving time and resources.
 			<br>**Market Research:** Analyze large volumes of text data to identify trends, sentiment analysis, and consumer preferences.
 			<br>**Personalization:** Tailor recommendations and offers to individual customers based on their interactions and preferences.
