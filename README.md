@@ -52,7 +52,9 @@
 			<br><b><i>Financial Optimization & Planning</i></b>
 				<br>* Analysis of financial reports and identification of cost-saving areas.
 				<br>* Risk assessment by examining market trends and news data.
-				<br>* Forecasting models for sales projections and inventory optimization. </td>
+				<br>* Forecasting models for sales projections and inventory optimization.
+			<br><a href="https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/gemini">Further discussion with Gemini</a>
+		</td>
 		<td width="25%"></td>
  	</tr>
 	<tr>
