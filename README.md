@@ -23,7 +23,7 @@
 			<br><b><i>Compliance and Regulations -</i></b> Ensure compliance with regulatory requirements by analyzing and interpreting legal documents and updates.
 			<br><b><i>Training and Development -</i></b> Support employee training by providing personalized learning materials and resources.
       </td>
-<br></br>
+		
    		<td style="background-color: lightgrey; width: 25%"> </td>
 		<td style="background-color: lightgrey; width: 25%"> </td>
  	</tr>
