@@ -2,7 +2,6 @@
 [jump to conclusions](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/README.md#dialogue-facilitators-summary-and-comments)<br><br>
 <b>Alex:</b> Tell me how in particular Language Models can help a business to succeed. What can they do for a business, for its management, for its financial optimization, planning etc. etc.?<br>
 <br>
-<br></br>
 <table width="100%">
 	<tr>
 		<th style="text-align: right; width:25%">ChatGPT</th>
