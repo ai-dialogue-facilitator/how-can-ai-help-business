@@ -70,6 +70,7 @@
 			<br><b><i>Document analysis -</i></b> Review contracts, filings, reports to extract key data points and insights quickly and efficiently. Helps identify cost savings opportunities and optimize operations. 
 			<br><b><i>Forecasting models -</i></b> Predict future sales, demand, economic conditions using past trends and external data sources. Allows better planning and resource allocation to drive growth.
 			<br><b><i>Recruiting and HR -</i></b> Resume/job description screening, identifying high quality candidates more efficiently. Can provide personalized assistance to employees as well.
+			<br><a href="https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/claude">Further discussion with Claude</a>
 		</td>
  	</tr>
 	<tr>
