@@ -10,7 +10,7 @@
 
 <b>ChatGPT:</b> [Internal Operations / Efficient communication](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/chatgpt/internal_operations_communication.md)
 
-<b>Alex:</b> Tell me more about application of AI for: Forecasting, Financial Optimization and Planning, Decision Support in combination with traditional Machine Learning techniques/algorithmic analysis and predictions Language Models allow for argumented textual explanations of observed trends and for recommendations based on previous data and decisions.
+<b>Alex:</b> Tell me more about application of AI for: Forecasting, Financial Optimization and Planning, Decision Support in combination with traditional Machine Learning techniques/algorithmic analysis and predictions Language Models allow for argumented textual explanations of observed trends and for recommendations based on previous data and decisions.<br>
 
 <b>ChatGPT:</b> [Forecasting, Financial Optimization and Planning, Decision Support](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/chatgpt/forecasting_optimization_planning.md)
 
