@@ -24,4 +24,5 @@
 
 # Facilitator's summary
 ChatGPT has suggested multiple valuable applications of AI to business processes inside the company as well as its' interactions with the business environment of outside world. Among them are:
+1. Processing of all emails, their sorting and prioretization, summarization of long ones or long exchanges (including multilateral exchanges).
 
