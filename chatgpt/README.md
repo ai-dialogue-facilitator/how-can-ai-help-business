@@ -13,3 +13,7 @@
 <b>Alex:</b> Tell me more about application of AI for: Forecasting, Financial Optimization and Planning, Decision Support in combination with traditional Machine Learning techniques/algorithmic analysis and predictions Language Models allow for argumented textual explanations of observed trends and for recommendations based on previous data and decisions.
 
 <b>ChatGPT:</b> [Forecasting, Financial Optimization and Planning, Decision Support](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/chatgpt/forecasting_optimization_planning.md)
+
+<b>Alex:</b> Tell me more about application of AI for:  Market Research, Risk Management, Compliance based on Language Model analysis of large volumes of textual data coming through the corresponding channels.
+
+<b>ChatGPT:</b> [Market Research, Risk Management, Compliance](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/chatgpt/market_risk_compliance.md)
