@@ -1,6 +1,6 @@
 <b>Alex:</b> Tell me more about application of AI for: Forecasting, Financial Optimization and Planning, Decision Support in combination with traditional Machine Learning techniques/algorithmic analysis and predictions Language Models allow for argumented textual explanations of observed trends and for recommendations based on previous data and decisions.
-<br>
-<b>ChatGPT:</b><br>
+
+<br><b>ChatGPT:</b><br>
 1. **Forecasting:**
    - Utilize time-series analysis techniques combined with AI algorithms to forecast future trends in various domains such as sales, demand, inventory, and financial markets.
    - Apply machine learning models such as ARIMA (AutoRegressive Integrated Moving Average) or LSTM (Long Short-Term Memory) networks to analyze historical data and make accurate predictions about future events.
@@ -18,5 +18,5 @@
    - Utilize supervised learning algorithms to train models to classify and prioritize information based on its relevance to specific decision-making contexts.
    - Apply unsupervised learning techniques such as clustering and topic modeling to identify patterns and relationships within textual data that may inform decision-making.
    - Use natural language generation (NLG) techniques to generate explanatory text that provides context and rationale for recommended decisions based on analysis of historical data and previous decisions.
-  
-   - [Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/chatgpt)
+
+[Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/chatgpt)
