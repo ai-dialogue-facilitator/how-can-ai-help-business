@@ -20,7 +20,7 @@
 
 <b>Alex:</b> And, finally, tell me how AI can be applied to: Recruiting and HR, Personnel Management, Training and Development personalized based on the incoming and outgoing communications; retraining of the personnel on the job with the help of automated 'instructor' and question answering support of AI.
 
-<b>ChatGPT:</b> [Recruiting and HR, Personnel Management, Training and Development](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/chatgpt/recruiting_personnel_training.md)
+<b>ChatGPT:</b> [Recruiting and HR, Personnel Management, Training and Development](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/chatgpt/recruiting_personnel_training.md)<br><br>
 
 # Facilitator's summary
 ChatGPT has suggested multiple valuable application of AI to business processes inside the company as well as its' interactions with the business environment of outside world. Among them are:
