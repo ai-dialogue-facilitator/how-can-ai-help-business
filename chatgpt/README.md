@@ -22,6 +22,6 @@
 
 <b>ChatGPT:</b> [Recruiting and HR, Personnel Management, Training and Development](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/chatgpt/recruiting_personnel_training.md)
 
-#### Facilitator's summary
+# Facilitator's summary
 ChatGPT has suggested multiple valuable application of AI to business processes inside the company as well as its' interactions with the business environment of outside world. Among them are:
 
