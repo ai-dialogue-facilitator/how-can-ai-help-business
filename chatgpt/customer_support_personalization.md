@@ -1,6 +1,8 @@
 Continued from the [previous page]()<br><br>
 <b>Alex:</b> Tell me more about each of these topics separately. First let us discuss what can AI do for <b>Customer Support, Customer Service and Personalization</b> based on sentiment analysis of customer feedback and interactions. This may involve technical implementations of chat-bots, voice recognition and generation utilities, automated incoming and outgoing email analysis etc. 
 
+<b>ChatGPT:</b><br>
+
 1. **Customer Support:**
    - Implement chatbots powered by AI to provide instant responses to common customer inquiries and issues.
    - Utilize voice recognition technology to enable automated phone support, allowing customers to interact with the system using natural language.
