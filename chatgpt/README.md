@@ -6,7 +6,9 @@
 <b>Alex:</b> Tell me more about each of these topics separately. First let us discuss what can AI do for <b>Customer Support, Customer Service and Personalization</b> based on sentiment analysis of customer feedback and interactions. This may involve technical implementations of chat-bots, voice recognition and generation utilities, automated incoming and outgoing email analysis etc. <br><br>
 <b>ChatGPT:</b> [Customer Support, Customer Service and Personalization](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/chatgpt/customer_support_personalization.md)
 
-<b>Alex:</b> 
+<b>Alex:</b> Now tell me more about the way AI can be applied in Internal Operations / Efficient communication based on optimization and prioritization of internal emails, summarization of documents and AI-aided generation of meaningful reports.
+
+<b>ChatGPT:</b> [Internal Operations / Efficient communication](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/chatgpt/internal_operations_communication.md)
 
 <b>Alex:</b> Tell me more about application of AI for: Forecasting, Financial Optimization and Planning, Decision Support in combination with traditional Machine Learning techniques/algorithmic analysis and predictions Language Models allow for argumented textual explanations of observed trends and for recommendations based on previous data and decisions.
 
