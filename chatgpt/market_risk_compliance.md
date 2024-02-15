@@ -1,4 +1,4 @@
-<b>Alex:</b> 
+<b>Alex:</b> Tell me more about application of AI for:  Market Research, Risk Management, Compliance based on Language Model analysis of large volumes of textual data coming through the corresponding channels.
 
 <b>ChatGPT:</b><br>
 1. **Market Research:**
