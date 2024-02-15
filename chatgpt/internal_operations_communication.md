@@ -1,4 +1,4 @@
-<b>Alex:</b> Now tell me more about the way AI can be applied in Internal Operations / Efficient communication based on optimization and prioritization of internal emails, summarization of documents and AI-aided generation of meaningful reports.<br><br>
+<b>Alex:</b> Now tell me more about the way AI can be applied in Internal Operations / Efficient communication based on optimization and prioritization of internal emails, summarization of documents and AI-aided generation of meaningful reports.<br>
 
 <b>ChatGPT:</b><br>
 1. **Optimization of internal emails:**
