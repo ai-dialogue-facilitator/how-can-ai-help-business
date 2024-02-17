@@ -34,4 +34,4 @@
 
 **Would you like to explore applications in other areas, such as lead generation or personalized marketing? Let's keep this conversation going!**
 
-[< Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/gemini)
+[< Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/README.md#conversation-with-gemini-advanced)
