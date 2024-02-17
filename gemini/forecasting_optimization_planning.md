@@ -34,4 +34,4 @@
 
 **Let me know if you'd like to explore more AI applications, perhaps in  marketing or even risk management!** 
 
-[< Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/gemini)
+[< Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/README.md#conversation-with-gemini-advanced)
