@@ -32,4 +32,4 @@
 
 **Would you like to learn more about how AI analyzes market trends and customer sentiment, or how LMs can create compelling sales and marketing materials? Let's keep exploring!** 
 
-[Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/README.md)
+[< Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/README.md)
