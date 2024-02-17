@@ -32,3 +32,19 @@
 
 <b>Gemini:</b> [Internal Operations / Efficient communication](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/internal_operations_communication.md)
 
+<b>Alex:</b> Tell me more about application of AI for: Forecasting, Financial Optimization and Planning, Decision Support in combination with traditional Machine Learning techniques/algorithmic analysis and predictions Language Models allow for argumented textual explanations of observed trends and for recommendations based on previous data and decisions.<br>
+
+<b>Gemini:</b> [Forecasting, Financial Optimization and Planning, Decision Support](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/forecasting_optimization_planning.md)
+
+<b>Alex:</b> Tell me more about application of AI for:  Market Research, Risk Management, Compliance based on Language Model analysis of large volumes of textual data coming through the corresponding channels.
+
+<b>Gemini:</b> [Market Research, Risk Management, Compliance](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/market_risk_compliance.md)
+
+<b>Alex:</b> And, finally, tell me how AI can be applied to: Recruiting and HR, Personnel Management, Training and Development personalized based on the incoming and outgoing communications; retraining of the personnel on the job with the help of automated 'instructor' and question answering support of AI.
+
+<b>Gemini:</b> [Recruiting and HR, Personnel Management, Training and Development](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/recruiting_personnel_training.md)<br><br>
+
+# Facilitator's summary
+Gemini (Advanced) has suggested multiple valuable applications of AI to business processes inside the company as well as its' interactions with the business environment of outside world. Among them are:
+1. Processing of all emails, their sorting and prioretization, summarization of long ones or long exchanges (including multilateral exchanges).
+
