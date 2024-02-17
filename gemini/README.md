@@ -1,4 +1,4 @@
-
+## Conversation with Gemini (Advanced)
 <b>Alex:</b> Tell me how in particular Language Models can help a business to succeed. What can they do for a business, for its management, for its financial optimization, planning etc. etc.?
 
 
