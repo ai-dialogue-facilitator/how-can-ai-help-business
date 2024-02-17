@@ -23,5 +23,8 @@
 				<br>* Analysis of financial reports and identification of cost-saving areas.
 				<br>* Risk assessment by examining market trends and news data.
 				<br>* Forecasting models for sales projections and inventory optimization.
-			<br><a href="https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/gemini">Further discussion with Gemini</a>
-		
+
+    
+<b>Alex:</b> Tell me more about each of these topics separately. First let us discuss what can AI do for <b>Customer Support, Customer Service and Personalization</b> based on sentiment analysis of customer feedback and interactions. This may involve technical implementations of chat-bots, voice recognition and generation utilities, automated incoming and outgoing email analysis etc. <br><br>
+<b>ChatGPT:</b> [Customer Support, Customer Service and Personalization](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/customer_support_personalization.md)
+
