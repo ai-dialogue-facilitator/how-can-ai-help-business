@@ -33,4 +33,5 @@
 * **Privacy & Data Handling:** When analyzing public data, ensure all practices comply with privacy regulations and respect individuals' rights.
 
 **Would you like to explore applications in other areas, such as lead generation or personalized marketing? Let's keep this conversation going!**
-[< Back}()
+
+[< Back}(https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/gemini)
