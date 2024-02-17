@@ -33,4 +33,4 @@
 
 **I'm always ready to explore more. Would you like to discuss  personalized marketing techniques  powered by AI, or perhaps ways AI can assist in project management?** 
 
-[< Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/tree/main/gemini)
+[< Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/README.md#conversation-with-gemini-advanced)
