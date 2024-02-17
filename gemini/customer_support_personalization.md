@@ -38,4 +38,4 @@
 
 **Let me know if you want to delve deeper into any other aspect of how AI can transform business – market research, content creation, or even financial optimization!** 
 
-[Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/README.md)
+[< Back](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business/blob/main/gemini/README.md)
