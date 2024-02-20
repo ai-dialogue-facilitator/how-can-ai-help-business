@@ -30,3 +30,5 @@
 - Reduce manual effort significantly for processing high volumes of documents
 
 > By applying language models to textual data across these areas, businesses can drive data-driven strategies while ensuring risks are mitigated and compliance standards are upheld through enhanced linguistic intelligence capabilities.
+
+[Back]()
