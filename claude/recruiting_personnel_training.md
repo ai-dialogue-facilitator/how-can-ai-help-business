@@ -27,4 +27,5 @@
 - Automatically generate learning modules, FAQ repositories from this data
 
 > By leveraging language models on enterprise communication data, HR teams can gain deeper insights into the workforce, automate repeated tasks, and develop tailored training/upskilling solutions tied to actual learning needs and proficiency levels. This empowers a more productive, motivated and continuously improving employee ecosystem.
-> 
+
+[Back]()
